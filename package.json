@@ -1,0 +1,20 @@
+{
+  "name": "ariannaegiuseppe.github.io",
+  "version": "1.0.0",
+  "description": "Aiuta Arianna e Giuseppe a coronare il loro sogno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerfologist/ariannaegiuseppe.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerfologist/ariannaegiuseppe.github.io/issues"
+  },
+  "homepage": "https://github.com/nerfologist/ariannaegiuseppe.github.io#readme"
+}
