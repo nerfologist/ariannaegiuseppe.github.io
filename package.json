@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "css:watch":"tailwindcss -i src/styles.css -o dist/styles.css --watch",
+    "css:watch": "tailwindcss -i src/styles.css -o dist/styles.css --watch",
     "dev": "http-server . & npm run css:watch"
   },
   "repository": {
@@ -22,6 +22,7 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.0.17",
     "http-server": "^14.1.1",
+    "prettier": "^3.5.3",
     "tailwindcss": "^4.0.17"
   }
 }
